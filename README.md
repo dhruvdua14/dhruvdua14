@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhruvdua14
 - 👀 I’m interested in Data science, machine learning
 - 🌱 I’m currently learning Natural language processing 
-- 📫 How to reach me - through linkedin
+- 📫 How to reach me - through linkedin(https://www.linkedin.com/in/dhruv-dua-b1163b214/)
 -  😄 Pronouns: ..-He/heman
 - ⚡ Fun fact: ...I Am a fast learner who simply to do anything.
 
