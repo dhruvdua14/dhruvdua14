@@ -1,4 +1,4 @@
-
+![logo](https://github.com/dhruvdua14/dhruvdua14/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.gif)
 <h1 align="center">Hi 👋, I'm Dhruv Dua</h1>
 <h3 align="center">In The Path To Be a Data scientist</h3>
 
